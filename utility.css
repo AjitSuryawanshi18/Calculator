@@ -1,0 +1,21 @@
+.main {
+    
+  margin: 5vh 0;
+  width: 100%;
+  height: 90vh;
+  display: flex;
+  justify-content: center; /* Horizontal movements  */
+  align-items: center; /* Vertical Movements */
+
+}
+.box{
+    background-color: white;
+    width: 43vw;
+    height: 70vh;
+    border-radius: 2cm;
+    box-shadow:  0 0 2.5vh black;
+}
+.bg{
+    background-color: aqua;
+    border-radius: 10vh;
+}

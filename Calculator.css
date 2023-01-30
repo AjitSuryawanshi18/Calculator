@@ -1,0 +1,53 @@
+ .row{
+    margin: 3vh 5vw; 
+   
+} 
+.button{
+   cursor: pointer;
+    width: 6vw;
+    height: 6vh;
+    margin: 1vh 1vw;
+   border-radius: 1vw;
+}
+.input{
+    height: 8vh;
+    width: 95%;
+    border-radius: 2vh;
+    font-size: 25px;
+}
+.backcolor{
+    color: black;
+    background-color:lightblue;
+}
+
+.extra1{
+    width: 6vw;
+    color: black;
+    background-color: orange;
+}
+.clear{
+    width: 5vw;
+    color:white;
+    background-color:black;
+}
+.extra{
+width: 4vw;
+}
+
+.white{
+    color: black;
+    background-color: wheat;
+}
+.newlogic{
+    margin-left: 0.5vw;
+    width: 6.5vw;
+}
+
+
+
+.hoverchange:hover{
+    background-color: red;
+}
+.white:hover{
+    background-color: deepskyblue;
+}
